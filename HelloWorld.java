@@ -2,9 +2,10 @@ Package com.myapis.core;
 
 public class HelloWorld
 {
-  public static void main(string args[])
+  public static void main(String args[])
   {
     super();
-    System.out.println("HelloWorld!")
+    String text = "Hello World!";
+    System.out.println(text);
   }
 }
